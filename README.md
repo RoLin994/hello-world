@@ -1,2 +1,2 @@
 # hello-world
-the first programme
+i am new here
